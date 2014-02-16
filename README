@@ -1,0 +1,1 @@
+Synchronization of data with a Monoid instance among different nodes in Cloud Haskell by interchanging incremental changes trough time-stamped events
